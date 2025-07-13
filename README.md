@@ -48,7 +48,7 @@ hr-analytics-dashboard/
 ## 🛠️ Tools Used
 
 - **Tableau Desktop** – Data visualization and dashboard creation
-- **Microsoft Excel** – Data preparation and formatting
+- **SQL** – Data preparation
 
 ---
 
